@@ -8,3 +8,6 @@ A Notes application built with react.
 -   Add Note
 -   Search Note
 -   Delete Note
+
+## Deployment
+https://mohit-react-notes-app.netlify.app
